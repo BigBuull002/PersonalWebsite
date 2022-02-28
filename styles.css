@@ -1,0 +1,81 @@
+div{
+    background-color: #C1F4C5;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #C1F4C5;
+}
+h1{ 
+   
+    font-family: 'Redressed', cursive;
+    font-size: 562.5%;
+    color: #11999E;
+    /*1em=16px=100%*/ 
+}
+h2{ 
+    
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Redressed', cursive;
+}
+h3{
+    color: #11999E;
+    padding: 20px;
+}
+
+.bottomcloud{
+    position: absolute;
+}
+.p1{
+    padding-top: 1opx;
+    position: relative;
+    top: 30px;
+}
+.p2{
+    position: relative;
+    bottom: 30px;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 60px;
+}
+.cloud1{
+    padding-top: 20px;
+    margin-left: 300px;
+    position: relative;
+    left: 60px;
+}
+.image{
+    padding-top: 40px;
+}
+.anchor{
+    color: #11999E;
+}
+.skills{
+    width: 50%;
+    margin: auto;/*used for centering*/
+    text-align: left;
+}
+.webd{
+    float: left;
+}
+
+.contact-me{
+    position: relative;
+    top: 50px;
+}
+
+.bottom-container{
+    
+    position: relative;
+    top: 50px;
+}
+.text{
+    position: relative;
+    right: 30px;
+}
+
+
+
