@@ -56,7 +56,7 @@ h3{
 .skills{
     width: 50%;
     margin: auto;/*used for centering*/
-    text-align: left;
+    /*text-align: left;*/
 }
 /*.webd{
     float: left;
